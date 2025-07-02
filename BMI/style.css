@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #6dd5ed, #2193b0);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  background-color: rgba(0,0,0,0.3);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+}
+label {
+  display: block;
+  margin-top: 1rem;
+}
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.2re
